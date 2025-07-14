@@ -2,7 +2,6 @@ import random
 
 acerto = False
 numero = random.randint(0, 99)
-print(numero)
 tentativas = 0
 
 while acerto != True:
